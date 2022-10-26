@@ -11,10 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/bdougie/git-twitch.git"
   },
-  "author": "bdougie",
+  "author": "mishmanners",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdougie/git-twitch/issues"
+    "url": "https://github.com/mishmanners/mish-friendly-food"
   },
   "homepage": "https://github.com/bdougie/git-twitch#readme",
   "dependencies": {
